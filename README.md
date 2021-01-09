@@ -8,6 +8,7 @@ My most relevant programming and electronics projects are right here.
 - I studied at Colégio Militar de Brasília (CMB) from 2014 to 2020.
 - I have a background in Math and Physics high-school science olympiads. 
 - I'm, like, 50% self-taught programmer and 100% self-taught hardware designer.
+- I play the alto sax and the piano!
 - Some of my favorite musicians are Bill Evans, Cory Wong, Joe Dart, Herbie Hancock, Miles Davis and Carlos Eiene.
 - I want to major in Electrical Engineering!
 
