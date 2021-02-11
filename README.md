@@ -7,7 +7,7 @@ My most relevant programming and electronics projects are right here.
 - I'm from Brasília, Brazil. Lovely city!
 - I studied at Colégio Militar de Brasília (CMB) from 2014 to 2020.
 - I have a background in Math and Physics high-school science olympiads. 
-- I'm, like, 50% self-taught programmer and 100% self-taught hardware designer.
+- I'm a (mostly) self-taught Python and C++ programmer.
 - I play the alto sax and the piano!
 - Some of my favorite musicians are Bill Evans, Cory Wong, Joe Dart, Herbie Hancock, Miles Davis and Carlos Eiene.
 - I want to major in Electrical Engineering! I want to work with hardware design and research in the future.
