@@ -2,18 +2,19 @@
 
 My most relevant programming and electronics projects are right here. 
 
-### A little bit about me...
+### A little bit about myself...
 
-- I'm from Brasília, Brazil. Lovely city!
-- I studied at Colégio Militar de Brasília (CMB) from 2014 to 2020.
-- I have a background in Math and Physics high-school science olympiads. 
-- I'm a (mostly) self-taught Python and C++ programmer.
-- I play the alto sax and the piano!
-- Some of my favorite musicians are Bill Evans, Cory Wong, Joe Dart, Herbie Hancock, Miles Davis and Carlos Eiene.
-- I want to major in Electrical Engineering! I want to work with hardware design and research in the future.
+- I'm from Brasília, Brazil. It's a nice place!
+- I've completed my middle/high school edication at _Colégio Militar de Brasília_.
+- I've competed in several Math and Physics olympiads throughout middle/high school. 
+- I'm a self-taught intermediate-level Python and C++ programmer.
+- I play the alto sax 🎷, piano 🎹 and electric bass 🎸!
+- Some of my favorite musicians (at the moment) are Cory Wong, Joe Dart, Herbie Hancock, Carlos Eiene, and Woody Goss.
+- I plan on majoring in Electrical or Aerospace Engineering.
 
 ### A little bit about my personal projects...
 - I love to code in Python! It's my favorite programming language.
+- Most of my coding/electronics projects revolve around the idea of project-based learning. Often times, I'll find a really interesting concept in CS/electronics and learn it by implementing it in a specific project.
 - I have a YouTube channel! I make videos about coding and hobbyist electronics. Check out [Lucca's Lab](https://www.youtube.com/channel/UCjpQ2w6Di2f-tyCiK6mVGlA)!
 
 ### Reach out to me:
@@ -32,4 +33,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
