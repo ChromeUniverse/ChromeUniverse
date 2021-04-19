@@ -2,7 +2,7 @@
 
 My most relevant programming and electronics projects are right here. 
 
-- 🔭 I’m currently working on **an ESP32-based Graphing Calculator**.
+- 🔭 I’m currently working on **[The Box World](https://github.com/ChromeUniverse/The-Box-World/)**.
 - 🌱 I’m currently learning **JavaScript/Node.js and Web Development**.
 - 📫 Reach out to me on Discord! **Lucca#2744**
 
