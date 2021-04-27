@@ -9,7 +9,7 @@ My most relevant programming and electronics projects are right here.
 ### A little bit about myself...
 
 - I'm from Brasília, Brazil. It's a nice place!
-- I've completed my middle/high school edication at _Colégio Militar de Brasília_ - I graduated in December 2020.
+- I've completed my middle/high school education at _Colégio Militar de Brasília_ - I graduated in December 2020.
 - I've competed in several Math and Physics olympiads throughout middle/high school. 
 - I'm a self-taught intermediate-level Python/C++ and beginner JS programmer.
 - I play the alto and tenor sax 🎷, piano/keyboard 🎹 and electric bass 🎸!
