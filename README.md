@@ -2,7 +2,7 @@
 
 My most relevant programming and electronics projects are right here. 
 
-- 🔭 I’m currently working on **[Tank Battle!](https://github.com/ChromeUniverse/Tank-Battle/)**.
+- 🔭 I’m currently working on **[Tank Battle!](https://github.com/ChromeUniverse/Tank-Battle/)**
 - 🌱 I’m currently learning **JavaScript/Node.js and Web Development**.
 - 📫 Reach out to me on Discord! **Lucca#2744**
 
