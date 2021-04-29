@@ -21,10 +21,7 @@ My most relevant programming and electronics projects are right here.
 - Most of my coding/electronics projects revolve around the idea of "learning by doing". Often times, I'll find a really interesting concept in CS/electronics and learn more about it by implementing it in a specific project.   
 - I have a small YouTube channel! I make videos about coding and hobbyist electronics. Check out [Lucca's Lab](https://www.youtube.com/channel/UCjpQ2w6Di2f-tyCiK6mVGlA)!
 
-![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=ChromeUniverse) 
-
-
-
+![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=ChromeUniverse&theme=darl&showicons=true) 
 
 
 <!--
