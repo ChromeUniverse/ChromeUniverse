@@ -2,9 +2,10 @@
 
 My most relevant programming and electronics projects are right here. 
 
-- 🔭 I’m currently working on **[RedstoneBot](https://github.com/ChromeUniverse/RedstoneBot/)** and **[my own personal website](https://github.com/ChromeUniverse/Personal-website)**.
+- 🔭 I’m currently working on **[RedstoneBot](https://github.com/ChromeUniverse/RedstoneBot/)** and **[my personal website](https://github.com/ChromeUniverse/Personal-website)**.
 - 🌱 I’m currently learning **JavaScript/Node.js**, **basic full-stack web development** and **basic CI/CD with GitHub Actions**.
 - 📫 Reach out to me on Discord! **Lucca#2744**
+- 🖥 Consider checking out **[my blog](http://34.200.98.64:3000/)**! While it might not look like much, I've put a lot of effort into making it.
 
 ### A little bit about myself...
 
@@ -13,8 +14,7 @@ My most relevant programming and electronics projects are right here.
 - I've competed in several Math and Physics olympiads throughout middle/high school. 
 - I'm a self-taught intermediate-level Python/C++ and an "advanced beginner" JS programmer.
 - I plan on majoring in Electrical or Aerospace Engineering.
-- I play the alto and tenor sax 🎷, piano/keyboard 🎹 and electric bass 🎸!
-- Right now I'm really digging some tunes from Cory Wong, Joe Dart, Herbie Hancock, Carlos Eiene, and TWRP.
+- I'm a musician too! I play the alto and tenor sax 🎷, piano/keyboard 🎹 and electric bass 🎸.
 
 ### A little bit about my personal projects...
 - 🐍 I love Python! It's my favorite programming language.
