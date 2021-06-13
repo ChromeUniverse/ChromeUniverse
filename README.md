@@ -2,8 +2,8 @@
 
 My most relevant programming and electronics projects are right here. 
 
-- 🔭 I’m currently working on **[my own personal website](https://github.com/ChromeUniverse/Personal-website)**.
-- 🌱 I’m currently learning **JavaScript/Node.js** and **basic full-stack web development**.
+- 🔭 I’m currently working on **[RedstoneBot](https://github.com/ChromeUniverse/RedstoneBot/)** and **[my own personal website](https://github.com/ChromeUniverse/Personal-website)**.
+- 🌱 I’m currently learning **JavaScript/Node.js**, **basic full-stack web development** and **basic CI/CD with GitHub Actions**.
 - 📫 Reach out to me on Discord! **Lucca#2744**
 
 ### A little bit about myself...
