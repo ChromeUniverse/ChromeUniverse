@@ -2,24 +2,11 @@
 
 My most relevant programming and electronics projects are right here. 
 <!-- - 🔭 I’m currently working on **[configs](https://github.com/ChromeUniverse/.dotfiles) for my personal Linux desktop**. -->
-- 🔭 I’m currently working on **[my personal website](https://github.com/ChromeUniverse/Personal-website)** and **CI/CD for [RedstoneBot](https://github.com/ChromeUniverse/RedstoneBot/)**.
+<!-- - 🔭 I’m currently working on **[my personal website](https://github.com/ChromeUniverse/Personal-website)** and **CI/CD for [RedstoneBot](https://github.com/ChromeUniverse/RedstoneBot/)**. -->
+- 🔭 I’m currently working on **[Tank Battle!](https://github.com/ChromeUniverse/Tank-Battle)**, a multiplayer IO-style combat game.
 - 🌱 I’m currently learning **JavaScript/Node.js**, **basic full-stack web development**, **CI/CD with GitHub Actions**, and **Linux things**.
 - 📫 Reach out to me on Discord! Send a friend request to _Lucca hash two seven four four_.
-- 💻 Consider checking out **[my blog](http://34.200.98.64:3000/)**! While it might not look like much, I've put a lot of effort into [making it.](http://34.200.98.64:3000/making-the-website)
-
-### A little bit about myself...
-
-- I'm from Brasília, Brazil. It's a nice place!
-- I've completed my middle/high school education at _Colégio Militar de Brasília_ - I graduated in December 2020.
-- I've competed in several Math and Physics olympiads throughout middle/high school. 
-- I'm a self-taught intermediate-level Python/C++ and an "advanced beginner" JS programmer.
-- I plan on majoring in Electrical or Aerospace Engineering.
-- I'm a musician too! I play the alto and tenor sax 🎷, piano/keyboard 🎹 and electric bass 🎸.
-
-### A little bit about my personal projects...
-- 🐍 I love Python! It's my favorite programming language.
-- Most of my coding/electronics projects revolve around the idea of "learning by doing". Often times, I'll find a really interesting concept in CS/electronics and learn more about it by implementing it in a specific project.   
-- I have a small YouTube channel! I make videos about coding and hobbyist electronics. Check out [Lucca's Lab](https://www.youtube.com/channel/UCjpQ2w6Di2f-tyCiK6mVGlA)!
+- 💻 Consider checking out **[my blog](http://34.200.98.64:3000/)**, _The Lucca Logs_! I've put a lot of effort into [making it.](http://34.200.98.64:3000/making-the-website)
 
 ![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=ChromeUniverse&theme=dark&show_icons=true) 
 
