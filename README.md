@@ -6,7 +6,7 @@ My most relevant programming and electronics projects are right here.
 - 🔭 I’m currently working on **[my personal website](https://github.com/ChromeUniverse/Personal-website)** and **[Tank Battle!](https://github.com/ChromeUniverse/Tank-Battle)**, a multiplayer IO-style combat game.
 - 🌱 I’m currently learning **JavaScript/Node.js**, **full-stack web development**, **CI/CD with GitHub Actions**, and **Linux**.
 - 📫 Reach out to me on Discord! Send a friend request to _Lucca hash two seven four four_.
-- 💻 Consider checking out **[my blog](http://34.200.98.64:3000/)**, _The Lucca Logs_! I've put a lot of effort into [making it.](http://34.200.98.64:3000/making-the-website)
+- 💻 Consider checking out **[my blog](http://34.200.98.64/)**, _The Lucca Logs_! I've put a lot of effort into [making it.](http://34.200.98.64/making-the-website)
 
 ![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=ChromeUniverse&theme=dark&show_icons=true) 
 
