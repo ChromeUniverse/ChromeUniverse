@@ -4,7 +4,7 @@ My most relevant programming and electronics projects are right here.
 <!-- - 🔭 I’m currently working on **[configs](https://github.com/ChromeUniverse/.dotfiles) for my personal Linux desktop**. -->
 <!-- - 🔭 I’m currently working on **[my personal website](https://github.com/ChromeUniverse/Personal-website)** and **CI/CD for [RedstoneBot](https://github.com/ChromeUniverse/RedstoneBot/)**. -->
 - 🔭 I’m currently working on **[my personal website](https://github.com/ChromeUniverse/Personal-website)** and **[Tank Battle!](https://github.com/ChromeUniverse/Tank-Battle)**, a multiplayer IO-style combat game.
-- 🌱 I’m currently learning **JavaScript/Node.js**, **full-stack web development**, **MySQL**, **CI/CD with GitHub Actions**, and **Linux**.
+- 🌱 Right now, I'm learning a ton of stuff, including **JavaScript/Node.js**, **full-stack web development**, **MySQL**, **CI/CD with GitHub Actions**, and **Linux**.
 - 📫 Reach out to me on Discord! Send a friend request to _Lucca hash two seven four four_.
 - 💻 Consider checking out **[my blog](http://34.200.98.64/)**, _The Lucca Logs_! I've put a lot of effort into [making it.](http://34.200.98.64/making-the-website)
 
