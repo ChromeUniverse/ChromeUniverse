@@ -7,9 +7,9 @@
   - 📝 I'm writing some fresh new posts for [my website/blog](https://github.com/ChromeUniverse/Personal-website).
   - 🎮 I'm working on [Tiny SMB](https://github.com/ChromeUniverse/tiny-smb), a remake of _Super Mario Bros._ for the [TIC-80](https://tic80.com/) fantasy console.
 - 🌱 I'm learning a lot of stuff right now too, including **JavaScript/Node.js**, **full-stack web development**, **MySQL**, and **Linux**.
-- 📫 Reach out to me on Discord! Send a friend request to _Lucca hash two seven four four_.
-- 🎮 Try out my new online multipleyer game, [_**Tank Battle!**_](http://18.229.196.24:4000/)
+- 🎮 Try out my new online multiplayer game, [_**Tank Battle!**_](http://18.229.196.24:4000/)
 - 💻 Consider checking out [my blog](http://34.200.98.64/), **_The Lucca Logs_**! I've put a lot of effort into [making it.](http://34.200.98.64/making-the-website)
+- 📫 Reach out to me on Discord! Send a friend request to _Lucca hash two seven four four_.
 
 You'll find my most relevant programming and electronics projects in the pins below. 
 
