@@ -1,4 +1,4 @@
-## Hi there! I'm Lucca, and this is my GitHub. 
+# Whaddup! ✌️ I'm Lucca. 
 
 <!-- - 🔭 I’m currently working on **[configs](https://github.com/ChromeUniverse/.dotfiles) for my personal Linux desktop**. -->
 <!-- - 🔭 I’m currently working on **[my personal website](https://github.com/ChromeUniverse/Personal-website)** and **CI/CD for [RedstoneBot](https://github.com/ChromeUniverse/RedstoneBot/)**. -->
