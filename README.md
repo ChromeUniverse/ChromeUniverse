@@ -1,15 +1,20 @@
-# Whaddup! ✌️ I'm Lucca. 
+# Whaddup! I'm Lucca. ✌️
 
+
+<!-- - 😴 Currently taking a break from coding. -->
+<!-- - 🏫 Studying for college entrance exams!  -->
 <!-- - 🔭 I’m currently working on **[configs](https://github.com/ChromeUniverse/.dotfiles) for my personal Linux desktop**. -->
 <!-- - 🔭 I’m currently working on **[my personal website](https://github.com/ChromeUniverse/Personal-website)** and **CI/CD for [RedstoneBot](https://github.com/ChromeUniverse/RedstoneBot/)**. -->
 <!-- - 🎮 I'm working on **[_Tank Battle!_](https://github.com/ChromeUniverse/Tank-Battle)**, an online multiplayer combat game. -->
-<!-- - 🔭 Currently working on a ton of stuff! -->
-<!--   - 📝 I'm writing some fresh new posts for [my website/blog](https://github.com/ChromeUniverse/Personal-website). -->
-<!--   - 🎮 I'm working on [Tiny SMB](https://github.com/ChromeUniverse/tiny-smb), a remake of _Super Mario Bros._ for the [TIC-80](https://tic80.com/) fantasy console. -->
 <!-- - 🌱 I'm learning a lot of stuff right now too, including **JavaScript/Node.js**, **full-stack web development**, **MySQL**, and **Linux**. -->
-- 😴 Currently taking a break from coding.
-- 🏫 Studying for college entrance exams! 
-- 🎮 Try out my new online multiplayer game, [_**Tank Battle!**_](http://18.229.196.24:4000/)
+
+  
+<!--   - 🎮 I'm working on [Tiny SMB](https://github.com/ChromeUniverse/tiny-smb), a remake of _Super Mario Bros._ for the [TIC-80](https://tic80.com/) fantasy console. -->
+
+- 🏖 Enjoying the holidays while working on personal projects!
+  - 🎄 I'm [solving](https://github.com/ChromeUniverse/Advent-of-Code-2021) the daily [Advent of Code 2021](https://adventofcode.com/) puzzles in Python. 
+  - 📝 I'm writing some fresh new posts for [my personal blog](https://github.com/ChromeUniverse/Personal-website).
+- 🎮 Try out my new online multiplayer game, [_Tank Battle!_](http://18.229.196.24:4000/)
 - 💻 Consider checking out [my blog](http://34.200.98.64/), **_The Lucca Logs_**! I've put a lot of effort into [making it.](http://34.200.98.64/making-the-website)
 - 📫 Reach out to me on Discord! Send a friend request to _Lucca hash two seven four four_.
 
