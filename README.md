@@ -15,8 +15,10 @@
   - 🎄 I'm [solving](https://github.com/ChromeUniverse/Advent-of-Code-2021) the daily [Advent of Code 2021](https://adventofcode.com/) puzzles in Python. 
   - 📝 I'm writing some fresh new posts for [my personal blog](https://github.com/ChromeUniverse/Personal-website).
 - 🎮 Try out my new online multiplayer game, [_Tank Battle!_](http://18.229.196.24:4000/)
-- 💻 Consider checking out [my blog](http://34.200.98.64/), **_The Lucca Logs_**! I've put a lot of effort into [making it.](http://34.200.98.64/making-the-website)
-- 📫 Reach out to me on Discord! Send a friend request to _Lucca hash two seven four four_.
+- 💻 Consider checking out [my blog](http://34.200.98.64/), **_The Lucca Logs_**! 
+
+<!-- - 💻 Consider checking out [my blog](http://34.200.98.64/), **_The Lucca Logs_**! I've put a lot of effort into [making it.](http://34.200.98.64/making-the-website) -->
+<!-- - 📫 Reach out to me on Discord! Send a friend request to _Lucca hash two seven four four_. -->
 
 You'll find my most relevant programming and electronics projects in the pins below. 
 
