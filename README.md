@@ -6,7 +6,6 @@
 <!-- - 🔭 I’m currently working on **[configs](https://github.com/ChromeUniverse/.dotfiles) for my personal Linux desktop**. -->
 <!-- - 🔭 I’m currently working on **[my personal website](https://github.com/ChromeUniverse/Personal-website)** and **CI/CD for [RedstoneBot](https://github.com/ChromeUniverse/RedstoneBot/)**. -->
 <!-- - 🎮 I'm working on **[_Tank Battle!_](https://github.com/ChromeUniverse/Tank-Battle)**, an online multiplayer combat game. -->
-<!-- - 🌱 I'm learning a lot of stuff right now too, including **JavaScript/Node.js**, **full-stack web development**, **MySQL**, and **Linux**. -->
 
   
 <!--   - 🎮 I'm working on [Tiny SMB](https://github.com/ChromeUniverse/tiny-smb), a remake of _Super Mario Bros._ for the [TIC-80](https://tic80.com/) fantasy console. -->
@@ -14,6 +13,7 @@
 - 🏖 Enjoying the holidays while working on personal projects!
   - 🎄 I'm [solving](https://github.com/ChromeUniverse/Advent-of-Code-2021) the daily [Advent of Code 2021](https://adventofcode.com/) puzzles in Python. 
   - 📝 I'm writing some fresh new posts for [my personal blog](https://github.com/ChromeUniverse/Personal-website).
+- 🌱 I'm learning a lot of stuff right now too, including **JavaScript/Node.js**, **Vue.js**, **full-stack web dev** and **Linux**.
 - 🎮 Try out my new online multiplayer game, [_Tank Battle!_](http://18.229.196.24:4000/)
 - 💻 Consider checking out [my blog](http://34.200.98.64/), **_The Lucca Logs_**! 
 
