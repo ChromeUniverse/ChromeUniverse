@@ -1,4 +1,4 @@
-# Whaddup! I'm Lucca. ✌️
+# Hiya, I'm Lucca! ✌️
 
 
 <!-- - 😴 Currently taking a break from coding. -->
