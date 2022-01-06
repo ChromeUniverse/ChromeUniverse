@@ -1,4 +1,4 @@
-# Hiya, I'm Lucca! ✌️
+# Hi, I'm Lucca! ✌️
 
 
 <!-- - 😴 Currently taking a break from coding. -->
@@ -13,6 +13,7 @@
 - 🏖 Enjoying the holidays while working on personal projects!
   - 🎄 I'm [solving](https://github.com/ChromeUniverse/Advent-of-Code-2021) the daily [Advent of Code 2021](https://adventofcode.com/) puzzles in Python. 
   - 📝 I'm writing some fresh new posts for [my personal blog](https://github.com/ChromeUniverse/Personal-website).
+- 🎥 I'm working on [LuccaTube](https://github.com/ChromeUniverse/luccatube), an open-source [SyncTube](https://sync-tube.de/) clone for watching YouTube videos with your friends online.
 - 🌱 I'm learning a lot of stuff right now too, including **JavaScript/Node.js**, **Vue.js**, **full-stack web dev** and **Linux**.
 - 🎮 Try out my new online multiplayer game, [_Tank Battle!_](http://18.229.196.24:4000/)
 - 💻 Consider checking out [my blog](http://34.200.98.64/), **_The Lucca Logs_**! 
