@@ -9,13 +9,14 @@
 <!-- - 🎄 I'm [solving](https://github.com/ChromeUniverse/Advent-of-Code-2021) the daily [Advent of Code 2021](https://adventofcode.com/) puzzles in Python.  -->
 <!-- - - 🎥 I'm working on [LuccaTube](https://github.com/ChromeUniverse/luccatube), an open-source [SyncTube](https://sync-tube.de/) clone for watching YouTube videos with your friends online. -->
 <!--   - 🎮 I'm working on [Tiny SMB](https://github.com/ChromeUniverse/tiny-smb), a remake of _Super Mario Bros._ for the [TIC-80](https://tic80.com/) fantasy console. -->
+<!-- - 🏖 Chillin' out and enjoying the holidays while working on personal projects! -->
 
-- 🏖 Chillin' out and enjoying the holidays while working on personal projects!
-  - 🎮 I'm revamping my online game **[_Tank Battle!_](https://github.com/ChromeUniverse/Tank-Battle)** by improving the art style, building a Vue 3 frontend, writing documentation, and doing lots of refactoring!
-  - 📝 I'm also writing some fresh new posts for [my personal blog](https://github.com/ChromeUniverse/Personal-website).
-- 🌱 I'm learning a lot of stuff right now too, including **JavaScript/Node.js**, **Vue.js**, **MySQL**, **full-stack web dev** and **Linux/Unix**.
-- 🎮 Try out my new online multiplayer game, [_Tank Battle!_](http://18.229.196.24:4000/)
-- 💻 Consider checking out my personal blog, [The Lucca Logs](http://34.200.98.64/)! 
+- 👨‍💻 Currently working on a ton of stuff...
+  - 🎮 I'm revamping my online game **[_Tank Battle!_](https://github.com/ChromeUniverse/Tank-Battle)** by improving the art style, building a Vue 3 frontend, writing documentation, and working on preformance enhancements.
+  - 📝 I'm writing some fresh new posts for [my personal blog](https://github.com/ChromeUniverse/Personal-website).
+- 🌱 I'm learning a lot of stuff right now too, including **Node.js**, **Vue.js**, **MySQL**, **full-stack web dev** and **Linux/Unix**.
+- 🎮 Try out my online multiplayer game, [_Tank Battle!_](http://18.229.196.24:4000/)
+- 💻 Consider reading out my blog, [The Lucca Logs](http://34.200.98.64/). 
 
 <!-- - 💻 Consider checking out [my blog](http://34.200.98.64/), **_The Lucca Logs_**! I've put a lot of effort into [making it.](http://34.200.98.64/making-the-website) -->
 <!-- - 📫 Reach out to me on Discord! Send a friend request to _Lucca hash two seven four four_. -->
