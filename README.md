@@ -15,7 +15,7 @@
   - 🎮 I'm revamping my online game **[_Tank Battle!_](https://github.com/ChromeUniverse/Tank-Battle)** by improving the art style, building a Vue 3 frontend, writing documentation, and working on preformance enhancements.
   - 📝 I'm writing some fresh new posts for [my personal blog](https://github.com/ChromeUniverse/Personal-website).
 - 🌱 I'm learning a lot of stuff right now too, including **Node.js**, **Vue.js**, **MySQL**, **full-stack web dev** and **Linux/Unix**.
-- 🎮 Try out my online multiplayer game, [_Tank Battle!_](http://18.229.196.24:4000/)
+<!-- - 🎮 Try out my online multiplayer game, [_Tank Battle!_](http://18.229.196.24:4000/) -->
 - 💻 Consider reading out my blog, [The Lucca Logs](http://34.200.98.64/). 
 
 <!-- - 💻 Consider checking out [my blog](http://34.200.98.64/), **_The Lucca Logs_**! I've put a lot of effort into [making it.](http://34.200.98.64/making-the-website) -->
