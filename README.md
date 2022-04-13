@@ -13,7 +13,7 @@
 <!-- - 🎮 Try out my online multiplayer game, [_Tank Battle!_](http://18.229.196.24:4000/) -->
 
 - 👨‍💻 Currently working on a ton of stuff...
-  - 🎮 Revamping my online game **[_Tank Battle!_](https://github.com/ChromeUniverse/Tank-Battle)**: improving the art, building a Vue frontend, writing docs, doing performance enhancements.
+  - 🎮 Revamping my online game **[_Tank Battle!_](https://github.com/ChromeUniverse/Tank-Battle)**: new art, building a Vue frontend, writing docs, doing performance enhancements.
   - 📝 Writing some fresh new posts for [my personal blog](https://github.com/ChromeUniverse/Personal-website).
   - 🤖 Building awesome Discord bots with **Discord.js**!
   - 🕵️‍♂️ Working on some really cool **top-secret projects**!
