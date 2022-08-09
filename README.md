@@ -12,13 +12,20 @@
 <!-- - 🏖 Chillin' out and enjoying the holidays while working on personal projects! -->
 <!-- - 🎮 Try out my online multiplayer game, [_Tank Battle!_](http://18.229.196.24:4000/) -->
 
-- 👨‍💻 Currently working on a ton of stuff...
+
+  
+<!-- 
+- 👨‍💻 Currently working on a ton of stuff...  
   - 🎮 Revamping my online game **[_Tank Battle!_](https://github.com/ChromeUniverse/Tank-Battle)**: new art, building a Vue frontend, writing docs, doing performance enhancements.
   - 📝 Writing some fresh new posts for [my personal blog](https://github.com/ChromeUniverse/Personal-website).
   - 🤖 Building awesome Discord bots with **Discord.js**!
   - 🕵️‍♂️ Working on some really cool **top-secret projects**!
-- 🌱 I'm learning a lot of stuff right now too, including **Node.js**, **Vue.js**, **MySQL**, **full-stack web dev** and **Linux/Unix**.
-- 💻 Consider checking out my blog, [The Lucca Logs](http://34.200.98.64/). 
+-->
+- 🌱 I'm learning and experimenting with lots of cool things right now!
+  - 🏄 **Web Development**: React.js, Vue.js, Node.js, Express.js, MySQL, SQLite3, Nginx
+  - ⚙ **Blockchain Tech**: Ethereum/Bitcoin basics, Alchemy and Moralis NFT APIs
+  - 💻 **General computing**: Linux/Unix
+- 📝 Consider checking out my blog, [The Lucca Logs](http://34.200.98.64/)!
 
 <!-- - 💻 Consider checking out [my blog](http://34.200.98.64/), **_The Lucca Logs_**! I've put a lot of effort into [making it.](http://34.200.98.64/making-the-website) -->
 <!-- - 📫 Reach out to me on Discord! Send a friend request to _Lucca hash two seven four four_. -->
