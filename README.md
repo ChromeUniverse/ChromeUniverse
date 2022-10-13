@@ -22,7 +22,7 @@
   - 🕵️‍♂️ Working on some really cool **top-secret projects**!
 -->
 - 🌱 I'm learning and experimenting with lots of cool things right now!
-  - 🏄 **Web Development**: React.js, Vue.js, Node.js, Express.js, MySQL, SQLite3, Nginx
+  - 🏄 **Web Development**: React, Vue, Tailwind CSS, Node.js, Express, MySQL, SQLite3, Nginx, AWS (Lightsail/EC2)
   - ⚙ **Blockchain Tech**: Ethereum/Bitcoin basics, Alchemy and Moralis NFT APIs
   - 💻 **General computing**: Linux/Unix
 - 📝 Consider checking out my blog, [The Lucca Logs](http://34.200.98.64/)!
