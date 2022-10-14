@@ -32,7 +32,8 @@
 
 You'll find my most relevant programming and electronics projects in the pins below. 
 
-![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=ChromeUniverse&theme=dark&show_icons=true) 
+[![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChromeUniverse&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
