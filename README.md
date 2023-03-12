@@ -28,9 +28,9 @@
   - 💾 **Backend**: tRPC, Prisma, PostgreSQL, SQLite 3 
   - 🌩 **Cloud & serverless stuff**: AWS, Vercel, Supabase, Netlify
   - 💻 **General computing**: Linux/Unix
-- 🎥 I do some livecoding on [Twitch](https://www.twitch.tv/lucca_rodrigues) sometimes.
-- 💬 I have a [Discord server](https://discord.com/invite/fc9y45uAcq)! 
 - 📝 Check out my website, [blaring.net](http://blaring.net/)! It's where I host my portfolio and my tech blog.
+- 💬 I have a [Discord server](https://discord.com/invite/fc9y45uAcq)! 
+- 🎥 I stream some livecoding on [Twitch](https://www.twitch.tv/lucca_rodrigues) sometimes and upload the occasional [YouTube](https://m.youtube.com/c/LuccasLab) video every now and then.
 
 You'll find my most relevant programming and electronics projects in the pins below. 
 
