@@ -11,29 +11,30 @@
 <!--   - 🎮 I'm working on [Tiny SMB](https://github.com/ChromeUniverse/tiny-smb), a remake of _Super Mario Bros._ for the [TIC-80](https://tic80.com/) fantasy console. -->
 <!-- - 🏖 Chillin' out and enjoying the holidays while working on personal projects! -->
 <!-- - 🎮 Try out my online multiplayer game, [_Tank Battle!_](http://18.229.196.24:4000/) -->
-
-
-  
 <!-- 
 - 👨‍💻 Currently working on a ton of stuff...  
   - 🎮 Revamping my online game **[_Tank Battle!_](https://github.com/ChromeUniverse/Tank-Battle)**: new art, building a Vue frontend, writing docs, doing performance enhancements.
   - 📝 Writing some fresh new posts for [my personal blog](https://github.com/ChromeUniverse/Personal-website).
   - 🤖 Building awesome Discord bots with **Discord.js**!
   - 🕵️‍♂️ Working on some really cool **top-secret projects**!
--->
-- 🌱 I'm learning and experimenting with lots of cool things right now!
-  - 🏄 **Web Development**: React, Vue, Tailwind CSS, Node.js, Express, MySQL, SQLite3, Nginx, AWS (Lightsail/EC2)
   - ⚙ **Blockchain Tech**: Ethereum/Bitcoin basics, Alchemy and Moralis NFT APIs
-  - 💻 **General computing**: Linux/Unix
-- 📝 Consider checking out my blog, [The Lucca Logs](http://34.200.98.64/)!
-
+-->
 <!-- - 💻 Consider checking out [my blog](http://34.200.98.64/), **_The Lucca Logs_**! I've put a lot of effort into [making it.](http://34.200.98.64/making-the-website) -->
 <!-- - 📫 Reach out to me on Discord! Send a friend request to _Lucca hash two seven four four_. -->
+
+- 🌱 I'm learning and experimenting with lots of cool things right now!
+  - 💡 **Programming languages**: TypeScript, Python, C++
+  - 🏄 **Frontend**: Next.js, React, Astro, Tailwind CSS, Headless UI
+  - 💾 **Backend**: tRPC, Prisma, PostgreSQL, SQLite 3 
+  - 🌩 **Cloud & serverless stuff**: AWS, Vercel, Supabase, Netlify
+  - 💻 **General computing**: Linux/Unix
+- 🎥 I do some livecoding on [Twitch](https://www.twitch.tv/lucca_rodrigues) sometimes.
+- 💬 I have a [Discord server](https://discord.com/invite/fc9y45uAcq)! 
+- 📝 Check out my website, [blaring.net](http://blaring.net/)! It's where I host my portfolio and my tech blog.
 
 You'll find my most relevant programming and electronics projects in the pins below. 
 
 [![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChromeUniverse&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
